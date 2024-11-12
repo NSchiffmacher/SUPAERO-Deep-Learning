@@ -10,7 +10,7 @@ keras
 
 torch
 torchvision
-ignite
+pytorch-ignite
 tensorflow
 spacy
 GPUtil
