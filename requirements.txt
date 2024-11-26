@@ -1,5 +1,7 @@
 numpy
 scikit-learn
+scikit-image
+torchinfo
 nltk
 networkx
 ann
@@ -8,6 +10,7 @@ numpy
 seaborn
 keras
 
+opencv-python
 torch
 torchvision
 pytorch-ignite
